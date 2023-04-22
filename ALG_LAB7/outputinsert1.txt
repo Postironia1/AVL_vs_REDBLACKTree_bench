@@ -1,0 +1,65 @@
+Test seria: 6
+
+test number: 1
+Time inserting into RBT tree: 0.0003401 sec.
+Time inserting into AVL tree: 0.0009943 sec.
+Max depth RBT: 18
+Max depth AVL: 11
+All depth RBT: All depth AVL: Time searching 1000 times in RBT tree: 0.0103116 sec.
+Time searching 1 time in RBT tree: 1.03116e-05 sec.
+Time searching 1000 times in AVL tree: 0.0122262 sec.
+Time searching 1 time in AVL tree: 1.22262e-05 sec.
+Time deleting 1000 times from RBT tree: 0.0129529 sec.
+Time deleting 1 time from RBT tree: 1.29529e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0107236 sec.
+Time deleting 1 time from AVL tree: 1.07236e-05 sec.
+test number: 2
+Time inserting into RBT tree: 0.0003628 sec.
+Time inserting into AVL tree: 0.0005929 sec.
+Max depth RBT: 12
+Max depth AVL: 11
+All depth RBT: All depth AVL: Time searching 1000 times in RBT tree: 0.0099099 sec.
+Time searching 1 time in RBT tree: 9.9099e-06 sec.
+Time searching 1000 times in AVL tree: 0.0101047 sec.
+Time searching 1 time in AVL tree: 1.01047e-05 sec.
+Time deleting 1000 times from RBT tree: 0.0103047 sec.
+Time deleting 1 time from RBT tree: 1.03047e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0099706 sec.
+Time deleting 1 time from AVL tree: 9.9706e-06 sec.
+
+Test seria: 7
+
+test number: 1
+Time inserting into RBT tree: 0.0006875 sec.
+Time inserting into AVL tree: 0.0013206 sec.
+Max depth RBT: 20
+Max depth AVL: 12
+All depth RBT: All depth AVL: Time searching 1000 times in RBT tree: 0.010177 sec.
+Time searching 1 time in RBT tree: 1.0177e-05 sec.
+Time searching 1000 times in AVL tree: 0.0107015 sec.
+Time searching 1 time in AVL tree: 1.07015e-05 sec.
+Time deleting 1000 times from RBT tree: 0.0101426 sec.
+Time deleting 1 time from RBT tree: 1.01426e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0102828 sec.
+Time deleting 1 time from AVL tree: 1.02828e-05 sec.
+test number: 2
+Time inserting into RBT tree: 0.0007407 sec.
+Time inserting into AVL tree: 0.0011734 sec.
+Max depth RBT: 14
+Max depth AVL: 12
+All depth RBT: All depth AVL: Time searching 1000 times in RBT tree: 0.0173931 sec.
+Time searching 1 time in RBT tree: 1.73931e-05 sec.
+Time searching 1000 times in AVL tree: 0.0110816 sec.
+Time searching 1 time in AVL tree: 1.10816e-05 sec.
+Time deleting 1000 times from RBT tree: 0.0189304 sec.
+Time deleting 1 time from RBT tree: 1.89304e-05 sec.
+Time deleting 1000 times from AVL tree: 0.0141364 sec.
+Time deleting 1 time from AVL tree: 1.41364e-05 sec.
+
+Test seria: 8
+
+test number: 1
+Time inserting into RBT tree: 0.0031445 sec.
+Time inserting into AVL tree: 0.0053006 sec.
+Max depth RBT: 22
+Max depth AVL: 13

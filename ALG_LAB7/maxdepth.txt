@@ -1,0 +1,78 @@
+Test seria: 14
+
+test number: 1
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 2
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 3
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 4
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 5
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 6
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 7
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 8
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 9
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 10
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 11
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 12
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 13
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 14
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 15
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 16
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 17
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 18
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 19
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 20
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 21
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 22
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 23
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 24
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 25
+Max depth RBT: 34
+Max depth AVL: 19
+

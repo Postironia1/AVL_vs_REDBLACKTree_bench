@@ -1,0 +1,237 @@
+Test seria: 6
+
+test number: 1
+Max depth RBT: 18
+Max depth AVL: 11
+test number: 2
+Max depth RBT: 18
+Max depth AVL: 11
+test number: 3
+Max depth RBT: 18
+Max depth AVL: 11
+test number: 4
+Max depth RBT: 18
+Max depth AVL: 11
+test number: 5
+Max depth RBT: 12
+Max depth AVL: 11
+test number: 6
+Max depth RBT: 12
+Max depth AVL: 11
+test number: 7
+Max depth RBT: 12
+Max depth AVL: 11
+test number: 8
+Max depth RBT: 12
+Max depth AVL: 11
+
+Test seria: 7
+
+test number: 1
+Max depth RBT: 20
+Max depth AVL: 12
+test number: 2
+Max depth RBT: 20
+Max depth AVL: 12
+test number: 3
+Max depth RBT: 20
+Max depth AVL: 12
+test number: 4
+Max depth RBT: 20
+Max depth AVL: 12
+test number: 5
+Max depth RBT: 13
+Max depth AVL: 12
+test number: 6
+Max depth RBT: 13
+Max depth AVL: 12
+test number: 7
+Max depth RBT: 14
+Max depth AVL: 12
+test number: 8
+Max depth RBT: 14
+Max depth AVL: 12
+
+Test seria: 8
+
+test number: 1
+Max depth RBT: 22
+Max depth AVL: 13
+test number: 2
+Max depth RBT: 22
+Max depth AVL: 13
+test number: 3
+Max depth RBT: 22
+Max depth AVL: 13
+test number: 4
+Max depth RBT: 22
+Max depth AVL: 13
+test number: 5
+Max depth RBT: 15
+Max depth AVL: 13
+test number: 6
+Max depth RBT: 15
+Max depth AVL: 13
+test number: 7
+Max depth RBT: 15
+Max depth AVL: 13
+test number: 8
+Max depth RBT: 15
+Max depth AVL: 13
+
+Test seria: 9
+
+test number: 1
+Max depth RBT: 24
+Max depth AVL: 14
+test number: 2
+Max depth RBT: 24
+Max depth AVL: 14
+test number: 3
+Max depth RBT: 24
+Max depth AVL: 14
+test number: 4
+Max depth RBT: 24
+Max depth AVL: 14
+test number: 5
+Max depth RBT: 16
+Max depth AVL: 15
+test number: 6
+Max depth RBT: 16
+Max depth AVL: 15
+test number: 7
+Max depth RBT: 16
+Max depth AVL: 15
+test number: 8
+Max depth RBT: 16
+Max depth AVL: 15
+
+Test seria: 10
+
+test number: 1
+Max depth RBT: 26
+Max depth AVL: 15
+test number: 2
+Max depth RBT: 26
+Max depth AVL: 15
+test number: 3
+Max depth RBT: 26
+Max depth AVL: 15
+test number: 4
+Max depth RBT: 26
+Max depth AVL: 15
+test number: 5
+Max depth RBT: 18
+Max depth AVL: 16
+test number: 6
+Max depth RBT: 18
+Max depth AVL: 16
+test number: 7
+Max depth RBT: 18
+Max depth AVL: 16
+test number: 8
+Max depth RBT: 18
+Max depth AVL: 16
+
+Test seria: 11
+
+test number: 1
+Max depth RBT: 28
+Max depth AVL: 16
+test number: 2
+Max depth RBT: 28
+Max depth AVL: 16
+test number: 3
+Max depth RBT: 28
+Max depth AVL: 16
+test number: 4
+Max depth RBT: 28
+Max depth AVL: 16
+test number: 5
+Max depth RBT: 19
+Max depth AVL: 17
+test number: 6
+Max depth RBT: 19
+Max depth AVL: 17
+test number: 7
+Max depth RBT: 19
+Max depth AVL: 17
+test number: 8
+Max depth RBT: 19
+Max depth AVL: 17
+
+Test seria: 12
+
+test number: 1
+Max depth RBT: 30
+Max depth AVL: 17
+test number: 2
+Max depth RBT: 30
+Max depth AVL: 17
+test number: 3
+Max depth RBT: 30
+Max depth AVL: 17
+test number: 4
+Max depth RBT: 30
+Max depth AVL: 17
+test number: 5
+Max depth RBT: 20
+Max depth AVL: 19
+test number: 6
+Max depth RBT: 20
+Max depth AVL: 19
+test number: 7
+Max depth RBT: 20
+Max depth AVL: 19
+test number: 8
+Max depth RBT: 20
+Max depth AVL: 19
+
+Test seria: 13
+
+test number: 1
+Max depth RBT: 32
+Max depth AVL: 18
+test number: 2
+Max depth RBT: 32
+Max depth AVL: 18
+test number: 3
+Max depth RBT: 32
+Max depth AVL: 18
+test number: 4
+Max depth RBT: 32
+Max depth AVL: 18
+test number: 5
+Max depth RBT: 21
+Max depth AVL: 20
+test number: 6
+Max depth RBT: 21
+Max depth AVL: 20
+test number: 7
+Max depth RBT: 21
+Max depth AVL: 20
+test number: 8
+Max depth RBT: 21
+Max depth AVL: 20
+
+Test seria: 14
+
+test number: 1
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 2
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 3
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 4
+Max depth RBT: 34
+Max depth AVL: 19
+test number: 5
+Max depth RBT: 22
+Max depth AVL: 21
+test number: 6
+Max depth RBT: 22
+Max depth AVL: 21
+test number: 7

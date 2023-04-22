@@ -1,0 +1,117 @@
+Test seria: 6
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0102692 sec.
+Time searching 1 time in RBT tree: 1.02692e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102029 sec.
+Time searching 1 time in AVL tree: 1.02029e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0102462 sec.
+Time searching 1 time in RBT tree: 1.02462e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102382 sec.
+Time searching 1 time in AVL tree: 1.02382e-05 sec.
+
+Test seria: 7
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.010237 sec.
+Time searching 1 time in RBT tree: 1.0237e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099797 sec.
+Time searching 1 time in AVL tree: 9.9797e-06 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0105223 sec.
+Time searching 1 time in RBT tree: 1.05223e-05 sec.
+Time searching 1000 times in AVL tree: 0.0099432 sec.
+Time searching 1 time in AVL tree: 9.9432e-06 sec.
+
+Test seria: 8
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0101959 sec.
+Time searching 1 time in RBT tree: 1.01959e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103466 sec.
+Time searching 1 time in AVL tree: 1.03466e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0101852 sec.
+Time searching 1 time in RBT tree: 1.01852e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101334 sec.
+Time searching 1 time in AVL tree: 1.01334e-05 sec.
+
+Test seria: 9
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0102391 sec.
+Time searching 1 time in RBT tree: 1.02391e-05 sec.
+Time searching 1000 times in AVL tree: 0.0106636 sec.
+Time searching 1 time in AVL tree: 1.06636e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.010481 sec.
+Time searching 1 time in RBT tree: 1.0481e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102073 sec.
+Time searching 1 time in AVL tree: 1.02073e-05 sec.
+
+Test seria: 10
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0102789 sec.
+Time searching 1 time in RBT tree: 1.02789e-05 sec.
+Time searching 1000 times in AVL tree: 0.0102142 sec.
+Time searching 1 time in AVL tree: 1.02142e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0105066 sec.
+Time searching 1 time in RBT tree: 1.05066e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104344 sec.
+Time searching 1 time in AVL tree: 1.04344e-05 sec.
+
+Test seria: 11
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0100053 sec.
+Time searching 1 time in RBT tree: 1.00053e-05 sec.
+Time searching 1000 times in AVL tree: 0.0101993 sec.
+Time searching 1 time in AVL tree: 1.01993e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0108253 sec.
+Time searching 1 time in RBT tree: 1.08253e-05 sec.
+Time searching 1000 times in AVL tree: 0.0105474 sec.
+Time searching 1 time in AVL tree: 1.05474e-05 sec.
+
+Test seria: 12
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0105315 sec.
+Time searching 1 time in RBT tree: 1.05315e-05 sec.
+Time searching 1000 times in AVL tree: 0.0110303 sec.
+Time searching 1 time in AVL tree: 1.10303e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0118399 sec.
+Time searching 1 time in RBT tree: 1.18399e-05 sec.
+Time searching 1000 times in AVL tree: 0.0144231 sec.
+Time searching 1 time in AVL tree: 1.44231e-05 sec.
+
+Test seria: 13
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0134583 sec.
+Time searching 1 time in RBT tree: 1.34583e-05 sec.
+Time searching 1000 times in AVL tree: 0.0123352 sec.
+Time searching 1 time in AVL tree: 1.23352e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.010413 sec.
+Time searching 1 time in RBT tree: 1.0413e-05 sec.
+Time searching 1000 times in AVL tree: 0.0100591 sec.
+Time searching 1 time in AVL tree: 1.00591e-05 sec.
+
+Test seria: 14
+
+test number: 1
+Time searching 1000 times in RBT tree: 0.0104929 sec.
+Time searching 1 time in RBT tree: 1.04929e-05 sec.
+Time searching 1000 times in AVL tree: 0.0103343 sec.
+Time searching 1 time in AVL tree: 1.03343e-05 sec.
+test number: 2
+Time searching 1000 times in RBT tree: 0.0101761 sec.
+Time searching 1 time in RBT tree: 1.01761e-05 sec.
+Time searching 1000 times in AVL tree: 0.0104192 sec.
+Time searching 1 time in AVL tree: 1.04192e-05 sec.
+
